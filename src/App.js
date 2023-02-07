@@ -1,12 +1,12 @@
 import React from "react";
-import Example from "./Components/Example";
+import RootHeader from "./Header/RootHeader";
+import Style from "./App.scss";
 
 const App = () => {
   return (
-    <>
-      <Example />
-      <h1>Hello React</h1>
-    </>
+    <div className={Style}>
+      <RootHeader />
+    </div>
   );
 };
 
