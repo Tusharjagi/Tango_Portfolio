@@ -21,14 +21,23 @@
   "homepage": "https://github.com/Tusharjagi/Tango_Portfolio#readme",
   "dependencies": {
     "@babel/preset-react": "^7.18.6",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.7",
+    "@mui/material-next": "^6.0.0-alpha.73",
+    "@mui/styled-engine-sc": "^5.11.0",
     "babel-core": "^6.26.3",
     "babel-plugin-transform-react-jsx": "^6.24.1",
     "babel-preset-env": "^1.7.0",
     "html-webpack-plugin": "^5.5.0",
+    "i": "^0.3.7",
+    "npm": "^9.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.8.0",
     "sass": "^1.58.0",
+    "styled-components": "^5.3.6",
     "webpack-dev-server": "^4.11.1"
   },
   "devDependencies": {
